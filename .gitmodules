@@ -1,3 +1,6 @@
 [submodule "front-crypto"]
 	path = front-crypto
 	url = https://github.com/EricTalv/front-crypto.git
+[submodule "back-crypto"]
+	path = back-crypto
+	url = https://github.com/EricTalv/back-crypto.git
