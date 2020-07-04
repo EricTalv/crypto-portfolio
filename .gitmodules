@@ -1,0 +1,3 @@
+[submodule "front-crypto"]
+	path = front-crypto
+	url = https://github.com/EricTalv/front-crypto.git
